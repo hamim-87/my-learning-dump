@@ -13,8 +13,6 @@ grey_img2 = cv.cvtColor(img2,cv.COLOR_BGR2GRAY)
 
 
 
-
-
 # #orb algo
 # orb = cv.ORB_create()
 
